@@ -1,8 +1,8 @@
 ![Selection_401](https://user-images.githubusercontent.com/50751381/59980474-231fda80-95ff-11e9-8efd-6aa881e711bd.jpg)
 
-# Welcome To DogeCash masternode installation script !
+# Welcome to the DogeCash masternode installation script !
 
-This script specially crafted for DogeCash community by *Mike Carper*
+This script is specially crafted for the DogeCash community by *Mike Carper*
 
 
 
@@ -15,21 +15,21 @@ Yes, this script can install any amount of masternodes, as much as your server c
 
 #### Do I need to buy extra IP addresses to be able to run multiple masternodes ?
 
-No, this script requares only one IP address and significantly decreases your hosting cost.
+No, this script requires only one IP address and significantly decreases your hosting cost.
 
-#### Ok guys, but I need to pay for a big server with a lot of RAM and a huge hard drive, this will probably cost me even more than Hadron Collider ?
+#### Ok guys, but I need to pay for a big server with a lot of RAM and a huge hard drive, this will probably cost me even more than the Hadron Collider ?
 
-No, actually you don't need Hadron Collider, if you plan to run up to 3 VPS we recommend Vultr 3.50$ or contabo ("S SSD" 4.99$) if doing up to 40 instances.
+No, actually you don't need the Hadron Collider, if you plan to run up to 3 VPS we recommend Vultr 3.50$ or contabo ("S SSD" 4.99$) if you are doing up to 40 instances.
 
 #### Seriously I can run 40 masternodes on just one IP for 5$ a month ?
 
 Absolutely right Sir!
 
-#### So this script use IPv6 ?
+#### So this script uses IPv6 ?
 
-No, this script use IPv4
+No, this script only uses IPv4
 
-#### All this things requare a lot of technical knowledge, should I be some sort of hacker to be able to use it ?
+#### All these things require a lot of technical knowledge, should I be some sort of hacker to be able to use it ?
 
 No, this script is specially designed to help people achive their goal without the need of any technical knowledge.
 
@@ -42,7 +42,7 @@ bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-i
 ```
 #### But I'm ok with servers cost, I run my own hosting company, why should I need such a big script ?
 
-This script such a big one, and have absolutely no competition across all PoS scene, this thing gives you amazing control across all of your masternodes, can make chain match, check sync and do enormous amount of things, just have a look on some of the commands at the end of the FAQ.
+This script is such a big one but has absolutely no competition across all the PoS scene. This thing gives you amazing control across all of your masternodes, it does chain checks, checks sync and does enormous amounts of things, just have a look on some of the commands at the end of the FAQ.
 
 ## *INSTALLATION:*
 Paste this line into console and press ENTER.
