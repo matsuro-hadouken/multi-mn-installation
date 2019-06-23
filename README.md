@@ -58,8 +58,8 @@ bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-i
 #### all_mn_run **daemon**
 Get the daemon name for all the masternodes running on this VPS.
 
-#### all_mn_run **DAEMON_NAME pivxd update_daemon force**
-Update the masternode binary code for all masternodes that have a daemon called pivxd.
+#### all_mn_run **DAEMON_NAME dogecashd update_daemon force**
+Update the masternode binary code for all masternodes that have a daemon called dogecashd.
 
 #### all_mn_run **ONE_DAEMON explorer**
 Get the explorer URL for every masternode running on this VPS.
