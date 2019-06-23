@@ -1,3 +1,12 @@
+![Selection_401](https://user-images.githubusercontent.com/50751381/59980474-231fda80-95ff-11e9-8efd-6aa881e711bd.jpg)
+
+# Welcome To DogeCash masternode installation script !
+
+This script specially crafted for DogeCash community by *Mike Carper*
+
+
+
+
 ### "FAQ"
 
 #### Can I use this script to install just one masternode ?
