@@ -65,11 +65,7 @@ Generate an addnode list of peers that have the same blockcount as the explorer.
 Remove any addnode= lines in the VPS wallet configuration file. 
 
 #### dogecash-cli **addnode_to_connect**
-Change the addnode= lines to connect= in the VPS wallet configuration file. 
-
-blockcheck_fix  
-
-blockcheck_reindex  
+Change the addnode= lines to connect= in the VPS wallet configuration file.  
 
 #### dogecash-cli **chaincheck**
 #### dogecash-cli **checkchain**
