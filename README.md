@@ -11,7 +11,7 @@ This script specially crafted for DogeCash community by *Mike Carper*
 
 #### Can I use this script to install just one masternode ?
 
-Yes, this script can install any amount of masternodes, as much as your server can handle.
+Yes, this script can install any amount of masternodes, as much as your server can handle. Every time you want to install one more node, just run script again.
 
 #### Do I need to buy extra IP addresses to be able to run multiple masternodes ?
 
