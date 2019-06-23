@@ -1,3 +1,48 @@
+### "FAQ"
+
+#### Can I use this script to install just one masternode ?
+
+Yes, this script can install any amount of masternodes, as much as your server can handle.
+
+#### Do I need to buy extra IP addresses to be able to run multiple masternodes ?
+
+No, this script requares only one IP address and significantly decreases your hosting cost.
+
+#### Ok guys, but I need to pay for a big server with a lot of RAM and a huge hard drive, this will probably cost me even more than Hadron Collider ?
+
+No, actually you don't need Hadron Collider, if you plan to run up to 3 VPS we recommend Vultr 3.50$ or contabo ("S SSD" 4.99$) if doing up to 40 instances.
+
+#### Seriously I can run 40 masternodes on just one IP for 5$ a month ?
+
+Absolutely right Sir!
+
+#### So this script use IPv6 ?
+
+No, this script use IPv4
+
+#### All this things requare a lot of technical knowledge, should I be some sort of hacker to be able to use it ?
+
+No, this script is specially designed to help people achive their goal without the need of any technical knowledge.
+
+#### I have already 100 masternodes running, do I need to shutdown them first ?
+
+No, you don't need to shutdown them, this script is a beast and can transfer your masternodes to one server, no new start needed. Just replace **LINE FROM MASTERNODE.CONF** with your masternode line from your desktop **masternode.conf**, the script'll automatically copy private keys and configuration:
+
+```
+bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-installation/master/multi-nodes-installer.sh)" -- LINE FROM MASTERNODE.CONF; source ~/.bashrc
+```
+#### But I'm ok with servers cost, I run my own hosting company, why should I need such a big script ?
+
+This script such a big one, and have absolutely no competition across all PoS scene, this thing gives you amazing control across all of your masternodes, can make chain match, check sync and do enormous amount of things, just have a look on some of the commands at the end of the FAQ.
+
+## INSTALLATION:
+Paste this line into console and press ENTER.
+
+```
+bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-installation/master/multi-nodes-installer.sh)" ; source ~/.bashrc
+```
+
+
 ## "all_mn_run" - Run Same Command on All Masternodes
 
 
