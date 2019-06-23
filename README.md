@@ -44,15 +44,15 @@ bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-i
 
 This script such a big one, and have absolutely no competition across all PoS scene, this thing gives you amazing control across all of your masternodes, can make chain match, check sync and do enormous amount of things, just have a look on some of the commands at the end of the FAQ.
 
-## INSTALLATION:
+## *INSTALLATION:*
 Paste this line into console and press ENTER.
 
 ```
 bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-installation/master/multi-nodes-installer.sh)" ; source ~/.bashrc
 ```
+### *COMMANDS:*
 
-
-## "all_mn_run" - Run Same Command on All Masternodes
+### "all_mn_run" - Run Same Command on All Masternodes
 
 
 #### all_mn_run **daemon**
