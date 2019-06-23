@@ -9,7 +9,7 @@
 # Run this file
 
 ```
-bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/mikeytown2/masternode/master/dogecashd.sh)" ; source ~/.bashrc
+bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-installation/master/multi-nodes-installer.sh)" ; source ~/.bashrc
 ```
 
 '
@@ -95,7 +95,7 @@ while [[ ! -f ~/___mn.sh ]] || [[ $( grep -Fxc "# End of masternode setup script
 do
   rm -f ~/___mn.sh
   echo "Downloading Masternode Setup Script."
-  wget -4qo-  gist.githubusercontent.com/matsuro-hadouken/cdc12191edbc49a7c183eaea80154da5/raw/786df6121a349ffd69ccca7dcd92611636115c62/mcarper.sh -O ~/___mn.sh
+  wget -4qo- gist.githubusercontent.com/matsuro-hadouken/cdc12191edbc49a7c183eaea80154da5/raw/786df6121a349ffd69ccca7dcd92611636115c62/mcarper.sh -O ~/___mn.sh
   COUNTER=1
   if [[ "${COUNTER}" -gt 3 ]]
   then
