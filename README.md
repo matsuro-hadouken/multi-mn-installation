@@ -1,6 +1,6 @@
 ![Selection_401](https://user-images.githubusercontent.com/50751381/59980474-231fda80-95ff-11e9-8efd-6aa881e711bd.jpg)
 
-# Welcome to the DogeCash masternode installation script
+## Welcome to the DogeCash masternode installation script
 
 This script is specially crafted for the DogeCash community by *Mike Carper*
 
