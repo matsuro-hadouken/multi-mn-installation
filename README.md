@@ -52,9 +52,9 @@ bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-i
 ```
 ### Check installation process VIDEO: 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-EaHaGdpbFY
 " target="_blank"><img src="http://img.youtube.com/vi/-EaHaGdpbFY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="INSTALLATION GUIDE" width="240" height="180" border="10" /></a>
 
 ## WE PROVIDE 24 HOUR SUPPORT ON DISCORD:
 
