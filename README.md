@@ -56,7 +56,7 @@ bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-i
 " target="_blank"><img src="http://img.youtube.com/vi/-EaHaGdpbFY/0.jpg" 
 alt="INSTALLATION GUIDE" width="240" height="180" border="10" /></a>
 
-## WE PROVIDE 24 HOUR SUPPORT ON DISCORD:
+## Support found in Discord:
 
 http://discord.dogec.io/
 
