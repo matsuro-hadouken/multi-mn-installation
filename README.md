@@ -165,6 +165,8 @@ Get the peers connected to the block explorer.
 #### dogecash-cli **getmasternodever**
 See what versions the masternodes in masternode list are running.
 
+### Undocumented:
+*( coming soon ) *
 
 blockcount_explorer  
 chaincheck  
