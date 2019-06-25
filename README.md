@@ -5,13 +5,15 @@
 This script is specially crafted for the DogeCash community by *Mike Carper*
 
 
-
-
 ### "FAQ"
 
 #### Can I use this script to install just one masternode ?
 
-Yes, this script can install any amount of masternodes, as much as your server can handle. Every time you want to install one more node, just run script again.
+Yes, this script can install any amount of masternodes, as much as your server can handle.
+
+### I already install one, how to install another one ?
+
+Just run Script again, this is it.
 
 #### Do I need to buy extra IP addresses to be able to run multiple masternodes ?
 
@@ -52,8 +54,8 @@ bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/matsuro-hadouken/multi-mn-i
 ```
 ### Check installation process VIDEO: 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-EaHaGdpbFY
-" target="_blank"><img src="http://img.youtube.com/vi/-EaHaGdpbFY/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=F6szvgFPIBw
+" target="_blank"><img src="http://img.youtube.com/vi/F6szvgFPIBw/0.jpg" 
 alt="INSTALLATION GUIDE" width="240" height="180" border="10" /></a>
 
 ## Support found in Discord:
