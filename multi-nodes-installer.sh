@@ -57,10 +57,9 @@ TIPS='DTu1fh3F6ujvEoZsqMtFZ31VFJzfkBeUpf'
 DROPBOX_ADDNODES='s0pdil1rehsy4fu'
 USE_DROPBOX_ADDNODES=1
 # Dropbox Bootstrap.
-DROPBOX_BOOTSTRAP='rawf808f0hv9jg'
+DROPBOX_BOOTSTRAP='7rawf808f0hv9jg'
 # Dropbox blocks and chainstake folders.
 DROPBOX_BLOCKS_N_CHAINS='s4vy92sczk9c10s'
-
 ASCII_ART () {
 echo -e "\e[0m"
 clear 2> /dev/null
